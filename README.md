@@ -24,3 +24,4 @@ In no particular order:
 - COMP 333
 - COMP 322
 - CLST 271
+- ENGL 210
