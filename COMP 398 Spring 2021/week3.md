@@ -10,3 +10,14 @@
         - While useful, the data will need to be converted into a .db file anyway
 
 ## Tuesday
+- I cranked through the Member Collector on a caffine fueled diet
+- The code is working, however it is only getting member front matter. In order to go deeper, I would neeed to scrape BioGuide or all of the bills associated with a member
+    - Since I am already scraping bill information, it would just make more sense to make that into its own module IMO
+    - All that is left to do is to Dockerize it, make sure that it scrapes both the House and Senate, implement argparse, and implement whiptail
+
+## Wednesday
+- I bug fixed the code today, it seems to work well enough to call it quits on that
+- I still have to implement the Docker container, and ensure that it is scraping both the house and senate, as well as the argparse and whiptail features
+    - Might be a good idea to prevent the other modules from being ran automatically
+- Still need tests to be written for a few of the modules
+    - Will have to learn how to use GitHub Actions for CI
