@@ -9,6 +9,7 @@
     - [Examples of Using the Essence Framework](#examples-of-using-the-essence-framework)
     - [Essence Education Forum](#essence-education-forum)
   - [Presenter Background](#presenter-background)
+  - [References](#references)
 
 ## Traditional Software Engineering Education vs Real World
 
@@ -77,3 +78,23 @@
 ## Presenter Background
 
 - Developed the essence checklist with insights from industry
+
+## References
+
+- [https://paulemcmahon.wordpress.com/2020/12/10/an-industry-perspective-on-what-we-should-be-teaching-our-next-generation-of-software-practitioners-in-the-universities/](https://paulemcmahon.wordpress.com/2020/12/10/an-industry-perspective-on-what-we-should-be-teaching-our-next-generation-of-software-practitioners-in-the-universities/)
+- [https://paulemcmahon.wordpress.com/2020/12/20/using-essence-to-teach-software-practitioners-in-industry/](https://paulemcmahon.wordpress.com/2020/12/20/using-essence-to-teach-software-practitioners-in-industry/)
+- SIGSOFT Seminar, April, 2020, [https://essence.ivarjacobson.com/videos/better-scrum-essence-jeff-sutherland-and-ivar-jacobson](https://essence.ivarjacobson.com/videos/better-scrum-essence-jeff-sutherland-and-ivar-jacobson),
+- For more information on Essence including training course [https://essence-in-use.com/](https://essence-in-use.com/)
+- Alistair Cockburn Interview [https://www.youtube.com/watch?v=xDlz6mEm-7I](https://www.youtube.com/watch?v=xDlz6mEm-7I),
+- For more information on Essence in use training [https://leanpub.com/c/essence](https://leanpub.com/c/essence)
+- More info on background and rationale for Essence checklists [https://leanpub.com/shyboys](https://leanpub.com/shyboys)
+- More Info on SEMAT refer to [www.semat.org](www.semat.org). See next slide for info on downloading Essence CARDS
+- More Real world stories and related Essence checklists [https://leanpub.com/itsallupsidedown](https://leanpub.com/itsallupsidedown)
+- Blog with example using Essence to help solve a Cybersecurity challenge
+- [https://paulemcmahon.wordpress.com/2019/05/16/using-essence-in-stealth-mode-to-help-solve-a-cybersecurity-challenge/](https://paulemcmahon.wordpress.com/2019/05/16/using-essence-in-stealth-mode-to-help-solve-a-cybersecurity-challenge/)
+- Blog responding to comment on previous blog on using Essence with Cybersecurity Challenge [https://paulemcmahon.wordpress.com/2019/06/09/scaling-essence-in-stealth-mode-and-why-you-should-care/](https://paulemcmahon.wordpress.com/2019/06/09/scaling-essence-in-stealth-mode-and-why-you-should-care/
+)
+- Blog with real world story on using checklists as critical thinking aid [https://paulemcmahon.wordpress.com/2019/03/23/critical-thinking-and-essence-why-every-engineer-and-consultant-should-care/](https://paulemcmahon.wordpress.com/2019/03/23/critical-thinking-and-essence-why-every-engineer-and-consultant-should-care/
+)
+- Blog on Cybersecurity and Critical Thinking: [https://paulemcmahon.wordpress.com/2018/09/12/cybersecure-software-new-twists-to-well-known-questions-every-developer-should-be-asking/](https://paulemcmahon.wordpress.com/2018/09/12/cybersecure-software-new-twists-to-well-known-questions-every-developer-should-be-asking/)
+- Blog on integrating Essence into other Computer Science courses [https://paulemcmahon.wordpress.com/2019/11/16/lets-start-a-conversation-on-integrating-essence-into-day-to-day-activities-as-a-thinking-framework-and-general-problem-solving-tool/](https://paulemcmahon.wordpress.com/2019/11/16/lets-start-a-conversation-on-integrating-essence-into-day-to-day-activities-as-a-thinking-framework-and-general-problem-solving-tool/)
