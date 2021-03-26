@@ -44,6 +44,17 @@
   - [What the Buzzwords in a Job Posting Really Mean](#what-the-buzzwords-in-a-job-posting-really-mean)
     - [Buzzwords A - Z list](#buzzwords-a---z-list)
   - [6 Job Search Tips for New Grads and Anyone Else Starting Their Careers During the Coronavirus Pandemic](#6-job-search-tips-for-new-grads-and-anyone-else-starting-their-careers-during-the-coronavirus-pandemic)
+  - [How to Ask for Help in Your Job Search During COVID-19](#how-to-ask-for-help-in-your-job-search-during-covid-19)
+    - [3 Rules](#3-rules)
+  - [The Best Cover Letter Examples for Every Type of Job Seeker](#the-best-cover-letter-examples-for-every-type-of-job-seeker)
+  - [How to Write a Business Proposal](#how-to-write-a-business-proposal)
+    - [What a business proposal should have](#what-a-business-proposal-should-have)
+    - [Types of Business Proposals](#types-of-business-proposals)
+  - [Wilbers: Collaborative Writing](#wilbers-collaborative-writingwilbers-collaborative-writing)
+    - [Tips](#tips-3)
+    - [Where writer's can differ](#where-writers-can-differ)
+  - [Tidy up wordy phrases](#tidy-up-wordy-phrases)
+  - [Writing an Executive Summary](#writing-an-executive-summary)
 
 ## Notes
 
@@ -629,3 +640,132 @@ processes to facilitate remote exchanges
 4. Continue to network
 5. Stand out from the crowd through personal branding
 6. Continue to update your skills
+
+## [How to Ask for Help in Your Job Search During COVID-19](https://www.themuse.com/advice/coronavirus-job-search-email-templates)
+
+- Tap into your network to see who is hiring
+
+### 3 Rules
+
+1. Ask for something specific
+2. Be genuine and empathetic
+3. Be patient
+
+## [The Best Cover Letter Examples for Every Type of Job Seeker](https://www.themuse.com/advice/cover-letter-examples-every-type-job-seeker)
+
+- Cover letters allow you to explain your value proposition
+  - Adds personality
+  - Covers gaps in your resume
+- Cover letters should have
+  - An egaging opening line
+  - A clear pitch
+  - A great closing line
+  - Keep in mind of Applicant Tracking Systems
+  - Add your contact information
+  - Direct your cover letter to someone specific
+- Cover letters should be concise
+
+## [How to Write a Business Proposal](https://venngage.com/blog/business-proposal/)
+
+- A business proposal is a document used by a business where a seller aims to persuade a prospective buyer into buying their goods or services
+  - Aims to streamline the purchase of goods or services between the seller and buyer by acting as a source of information and sales pitch
+- When writing a business proposal:
+  - Know your audience
+  - Be as brief as possible
+  - Put your brand front and center
+  - Do a thorough spell check
+
+### What a business proposal should have
+
+1. Title
+
+- Your Name
+- Company Name
+- Name of the prospect
+- The date
+
+2. Table of Contents
+3. Executive Summary
+
+- Introduce your company to your buyer
+- Provide an overview of your company goals
+- Showcase your company's milestones, overall vision and future plans
+- Other relevant info
+
+4. The Problem Statement
+
+- Shows the prospect that you have deep knowledge about the problem
+- Creates an opportunity for you to point out a problem your prospect might not have known about in the first place
+
+5. The Proposed Solution
+6. Qualifications
+
+- Why they should trust you?
+
+7. The Timeline
+
+- Outline the next steps that you will take should your buyer decide to work with you
+
+8. Pricing, Billing and Legal
+
+- Outlne everything legal
+
+9. Terms and Conditions
+
+- Overall timeline
+- Payment methods
+- Payment schedule
+
+10. The Acceptance
+
+- The signature page
+
+### Types of Business Proposals
+
+1. Formally Solicited
+2. Infomrally Solicited
+3. Unsolicited
+
+## [Wilbers: Collaborative Writing](Wilbers: Collaborative Writing)
+
+### Tips
+
+- Determine your purpose
+- Analyze and know your audience
+- Formulate an outline and determine an organizational format
+- Choose a team leader
+- Assign writing tasks and other duties
+- Establish a schedule of deadlines
+- Estavlish a writing style and guidelines
+- Establish editing responsibilities and procedure
+- Define the editor's role
+- Expect some disagreement and conflict
+
+### Where writer's can differ
+
+- The serial comma
+- Spacing after periods or colons
+- The order of quotation marks in relation to other punctuation marks
+- Numbers as words or figures
+- Consistent spelling of commonly used words
+- Voice and person
+- Verical lists
+- Format
+
+## [Tidy up wordy phrases](https://writing.wisc.edu/handbook/style/css_wordyphrases/)
+
+- Eliminate wordy phrases
+  - Replace passive verbs with active ones
+
+## [Writing an Executive Summary](https://writingcenter.uagc.edu/writing-executive-summary)
+
+- An executive summary provides an overview of the main points of a larger report
+  - Often written for leaders in a business or organization so that they can grasp the crucial information
+- Summarizes the key points of the report
+  - Restate the purpose
+  - Highlight the major points of the report
+  - Describe results, conclusions, and reccomendations
+  - Include enough info so as to skip reading the entire report
+- Formatting
+  - Be clear and concise
+  - Follow your companies guidelines
