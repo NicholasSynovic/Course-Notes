@@ -49,6 +49,13 @@
   - [System Memory Structure](#system-memory-structure)
     - [System Components](#system-components)
     - [Processes](#processes)
+    - [Kernel and Communication](#kernel-and-communication)
+    - [Kernel and Process Control Blocks](#kernel-and-process-control-blocks)
+    - [Process Manager](#process-manager)
+    - [Kernel and the File System](#kernel-and-the-file-system)
+    - [CPU and the Kernel](#cpu-and-the-kernel)
+  - [Observer Pattern](#observer-pattern)
+  - [PubSub Pattern](#pubsub-pattern)
 
 ## Note
 
@@ -447,5 +454,106 @@
 - Managed by the kernel
 - Each process is a child of another
   - The root one in Unix is init
-    - Acts as system boot
-    - FINISH ME
+- init Acts as system boot
+  - Kernel is responsible for executing it
+  - It uses the fork() command to create child processes
+- Child Processes use the exec() method to execute commands
+  - wait() can be used to gracefully terminate a program
+- When created, processes are assigned a spot in memory
+  - Kernel can access and manipulate these addresses
+- Processes have states which can be monitored by the kernel
+
+### Kernel and Communication
+
+- Synchronisation of the kernal and other components is tested using one of these classic problems
+  - Shared buffer
+  - Producers and consumers (bounded buffer)
+  - Readers and writers
+  - Dining philosophers
+  - Cigarette smokers
+  - Barbershop
+- A locking mechanism is utilized to coordinate shared resources
+  - Monitors are used to check on this locking mechanism
+- There are APIs in place to create and destroy processes
+  - System interupts
+  - Communication
+  - Device management
+  - File management
+  - Information management
+  - Process control
+
+### Kernel and Process Control Blocks
+
+- Process Control Blocks (PCBs) isolate applications from one another
+  - Allows for system commands to be executed by multiple programs without having to deal with issues such as parellization or multithreading
+- PCBs have:
+  - Register values
+  - Logical state
+  - Page map table mapping logical addresses to physical addresses
+  - Type & location of resources it holds
+  - List of resources it needs
+  - Parent process identification
+  - Security keys
+
+### Process Manager
+
+- Managed by the kernel
+- Responsibile for all of the monitoring, creation, and termination of processes
+  - Other responsibilities:
+    - Process creation and termination
+    - Resource allocation and protection
+    - Cooperation with device manager to implement I/O
+    - Implementation of address space
+    - Process scheduling
+- Process scheduling is done to provide a fast and efficient system
+  - Processes are paused and created only when there is enough resources to do so
+  - Monitors system metrics to make sure that the system is running at optimal conditions
+    - Metrics include:
+      - CPU utilisation
+      - Throughput
+      - Waiting time for process in ready state
+      - Service time by CPU for a given process
+      - Turnaround time for a process
+      - Response time (time from first submission of process to completion...)
+
+### Kernel and the File System
+
+- The kernel is responsible for the file system
+  - Operations include:
+    - Create, delete, open, close a file
+    - Rename, copy a file
+    - Read data from and write data to a file
+    - Append data to end of specified file
+    - Delete file contents (truncate content) - file remains with content wiped
+    - Reposition file pointer in defined file
+  - Done so using disk scheduling
+
+### CPU and the Kernel
+
+- CPU executes kernel instructions
+- The CPU has Compute Units (CU) and Arithmetic Logical Units (ALU)
+  - CU responsibile for the allocation and communication of instructions to and from the kernel
+  - CU and ALU work together
+- CPUs have instruction registers
+
+## Observer Pattern
+
+- This pattern allows for the creation of one to many associations between objects
+  - Used in one to many, one way, or event driven systems
+  - Promotes loose coupling between components
+- Two components
+  - Subject
+    - Provides interface for observers to subscribe and unsubscribe
+    - Sends notifications to observers for changes in state
+    - Maintains record of subscribed observers
+  - Observer
+    - Includes a function to respond to subject notifications
+- There is the potential for in a system multiple observers have to be created to handle multiple subjects, some of which may be the same subject but reporting to two distinct observers
+
+## PubSub Pattern
+
+- A variation of the observer pattern
+  - Typically used in JS
+  - Avoids dependency between observer and subject
+- The subscriber (subject) listens for notifications about a specific topic (event) from the publisher (observer)
+  - Reverses the roles of the observer pattern
