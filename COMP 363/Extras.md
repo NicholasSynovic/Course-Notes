@@ -56,6 +56,9 @@
     - [CPU and the Kernel](#cpu-and-the-kernel)
   - [Observer Pattern](#observer-pattern)
   - [PubSub Pattern](#pubsub-pattern)
+  - [Graphs](#graphs)
+  - [Hash Tables](#hash-tables)
+  - [Firebase](#firebase)
 
 ## Note
 
@@ -557,3 +560,20 @@
   - Avoids dependency between observer and subject
 - The subscriber (subject) listens for notifications about a specific topic (event) from the publisher (observer)
   - Reverses the roles of the observer pattern
+
+## Graphs
+
+- Directed graphs are graphs that can only go one way
+
+## Hash Tables
+
+- Multiple variations of SHA of varying complexity
+  - SHA-0
+  - SHA-1
+  - SHA-2
+  - SHA-3
+
+## Firebase
+
+- Google provided cloud database meant for mobile applications
+- NoSQL, JSON based
